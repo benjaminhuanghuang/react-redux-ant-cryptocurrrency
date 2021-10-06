@@ -27,3 +27,8 @@ Install dependencies
     npm i moment
 
 ```  
+
+## Redux toolkit
+```
+    npm i @reduxjs/toolkit
+```
